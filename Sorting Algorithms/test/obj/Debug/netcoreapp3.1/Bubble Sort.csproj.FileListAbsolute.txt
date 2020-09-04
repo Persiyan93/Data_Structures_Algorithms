@@ -1,0 +1,12 @@
+C:\Users\persi\Desktop\DataStructure And Algorithms\Sorting Algorithms\test\bin\Debug\netcoreapp3.1\Bubble Sort.exe
+C:\Users\persi\Desktop\DataStructure And Algorithms\Sorting Algorithms\test\bin\Debug\netcoreapp3.1\Bubble Sort.deps.json
+C:\Users\persi\Desktop\DataStructure And Algorithms\Sorting Algorithms\test\bin\Debug\netcoreapp3.1\Bubble Sort.runtimeconfig.json
+C:\Users\persi\Desktop\DataStructure And Algorithms\Sorting Algorithms\test\bin\Debug\netcoreapp3.1\Bubble Sort.runtimeconfig.dev.json
+C:\Users\persi\Desktop\DataStructure And Algorithms\Sorting Algorithms\test\bin\Debug\netcoreapp3.1\Bubble Sort.dll
+C:\Users\persi\Desktop\DataStructure And Algorithms\Sorting Algorithms\test\bin\Debug\netcoreapp3.1\Bubble Sort.pdb
+C:\Users\persi\Desktop\DataStructure And Algorithms\Sorting Algorithms\test\obj\Debug\netcoreapp3.1\Bubble Sort.csproj.CoreCompileInputs.cache
+C:\Users\persi\Desktop\DataStructure And Algorithms\Sorting Algorithms\test\obj\Debug\netcoreapp3.1\Bubble Sort.AssemblyInfoInputs.cache
+C:\Users\persi\Desktop\DataStructure And Algorithms\Sorting Algorithms\test\obj\Debug\netcoreapp3.1\Bubble Sort.AssemblyInfo.cs
+C:\Users\persi\Desktop\DataStructure And Algorithms\Sorting Algorithms\test\obj\Debug\netcoreapp3.1\Bubble Sort.dll
+C:\Users\persi\Desktop\DataStructure And Algorithms\Sorting Algorithms\test\obj\Debug\netcoreapp3.1\Bubble Sort.pdb
+C:\Users\persi\Desktop\DataStructure And Algorithms\Sorting Algorithms\test\obj\Debug\netcoreapp3.1\Bubble Sort.genruntimeconfig.cache
