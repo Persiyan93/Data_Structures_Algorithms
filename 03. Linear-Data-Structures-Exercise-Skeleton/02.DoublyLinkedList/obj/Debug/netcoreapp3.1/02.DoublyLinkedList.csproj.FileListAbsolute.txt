@@ -1,0 +1,9 @@
+C:\Users\persi\Desktop\New folder\03. Linear-Data-Structures-Exercise-Skeleton\02.DoublyLinkedList\bin\Debug\netcoreapp3.1\02.DoublyLinkedList.deps.json
+C:\Users\persi\Desktop\New folder\03. Linear-Data-Structures-Exercise-Skeleton\02.DoublyLinkedList\bin\Debug\netcoreapp3.1\02.DoublyLinkedList.dll
+C:\Users\persi\Desktop\New folder\03. Linear-Data-Structures-Exercise-Skeleton\02.DoublyLinkedList\bin\Debug\netcoreapp3.1\02.DoublyLinkedList.pdb
+C:\Users\persi\Desktop\New folder\03. Linear-Data-Structures-Exercise-Skeleton\02.DoublyLinkedList\obj\Debug\netcoreapp3.1\02.DoublyLinkedList.csprojAssemblyReference.cache
+C:\Users\persi\Desktop\New folder\03. Linear-Data-Structures-Exercise-Skeleton\02.DoublyLinkedList\obj\Debug\netcoreapp3.1\02.DoublyLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\persi\Desktop\New folder\03. Linear-Data-Structures-Exercise-Skeleton\02.DoublyLinkedList\obj\Debug\netcoreapp3.1\02.DoublyLinkedList.AssemblyInfoInputs.cache
+C:\Users\persi\Desktop\New folder\03. Linear-Data-Structures-Exercise-Skeleton\02.DoublyLinkedList\obj\Debug\netcoreapp3.1\02.DoublyLinkedList.AssemblyInfo.cs
+C:\Users\persi\Desktop\New folder\03. Linear-Data-Structures-Exercise-Skeleton\02.DoublyLinkedList\obj\Debug\netcoreapp3.1\02.DoublyLinkedList.dll
+C:\Users\persi\Desktop\New folder\03. Linear-Data-Structures-Exercise-Skeleton\02.DoublyLinkedList\obj\Debug\netcoreapp3.1\02.DoublyLinkedList.pdb
