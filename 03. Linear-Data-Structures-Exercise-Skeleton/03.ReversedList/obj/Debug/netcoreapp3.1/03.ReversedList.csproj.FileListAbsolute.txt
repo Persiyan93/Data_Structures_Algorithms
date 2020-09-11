@@ -7,3 +7,12 @@ C:\Users\persi\Desktop\New folder\03. Linear-Data-Structures-Exercise-Skeleton\0
 C:\Users\persi\Desktop\New folder\03. Linear-Data-Structures-Exercise-Skeleton\03.ReversedList\obj\Debug\netcoreapp3.1\03.ReversedList.AssemblyInfo.cs
 C:\Users\persi\Desktop\New folder\03. Linear-Data-Structures-Exercise-Skeleton\03.ReversedList\obj\Debug\netcoreapp3.1\03.ReversedList.dll
 C:\Users\persi\Desktop\New folder\03. Linear-Data-Structures-Exercise-Skeleton\03.ReversedList\obj\Debug\netcoreapp3.1\03.ReversedList.pdb
+C:\Users\persi\Desktop\DataStructure And Algorithms\03. Linear-Data-Structures-Exercise-Skeleton\03.ReversedList\bin\Debug\netcoreapp3.1\03.ReversedList.deps.json
+C:\Users\persi\Desktop\DataStructure And Algorithms\03. Linear-Data-Structures-Exercise-Skeleton\03.ReversedList\bin\Debug\netcoreapp3.1\03.ReversedList.dll
+C:\Users\persi\Desktop\DataStructure And Algorithms\03. Linear-Data-Structures-Exercise-Skeleton\03.ReversedList\bin\Debug\netcoreapp3.1\03.ReversedList.pdb
+C:\Users\persi\Desktop\DataStructure And Algorithms\03. Linear-Data-Structures-Exercise-Skeleton\03.ReversedList\obj\Debug\netcoreapp3.1\03.ReversedList.csprojAssemblyReference.cache
+C:\Users\persi\Desktop\DataStructure And Algorithms\03. Linear-Data-Structures-Exercise-Skeleton\03.ReversedList\obj\Debug\netcoreapp3.1\03.ReversedList.csproj.CoreCompileInputs.cache
+C:\Users\persi\Desktop\DataStructure And Algorithms\03. Linear-Data-Structures-Exercise-Skeleton\03.ReversedList\obj\Debug\netcoreapp3.1\03.ReversedList.AssemblyInfoInputs.cache
+C:\Users\persi\Desktop\DataStructure And Algorithms\03. Linear-Data-Structures-Exercise-Skeleton\03.ReversedList\obj\Debug\netcoreapp3.1\03.ReversedList.AssemblyInfo.cs
+C:\Users\persi\Desktop\DataStructure And Algorithms\03. Linear-Data-Structures-Exercise-Skeleton\03.ReversedList\obj\Debug\netcoreapp3.1\03.ReversedList.dll
+C:\Users\persi\Desktop\DataStructure And Algorithms\03. Linear-Data-Structures-Exercise-Skeleton\03.ReversedList\obj\Debug\netcoreapp3.1\03.ReversedList.pdb

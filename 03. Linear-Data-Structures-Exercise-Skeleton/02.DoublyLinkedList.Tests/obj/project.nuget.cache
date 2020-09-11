@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Msvb1XtdlUdK9wT9GAZT0SHgIn/veF+7Yv35dBRkNbPFRN65zZ5pnyyx4RQ9ng9nIpYMSAqLIt98PIaA+dLMrw==",
+  "dgSpecHash": "cVJzti+haFrQR8VH+S6EZb3i/F12JKnbJ9QQDEqW7FSRQ3RJtsyiDQClmLdZu77lvbo0YEnvFIRiDmiPA/bJ3w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\persi\\Desktop\\New folder\\03. Linear-Data-Structures-Exercise-Skeleton\\02.DoublyLinkedList.Tests\\02.DoublyLinkedList.Tests.csproj",
+  "projectFilePath": "C:\\Users\\persi\\Desktop\\DataStructure And Algorithms\\03. Linear-Data-Structures-Exercise-Skeleton\\02.DoublyLinkedList.Tests\\02.DoublyLinkedList.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\persi\\.nuget\\packages\\microsoft.codecoverage\\16.4.0\\microsoft.codecoverage.16.4.0.nupkg.sha512",
     "C:\\Users\\persi\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

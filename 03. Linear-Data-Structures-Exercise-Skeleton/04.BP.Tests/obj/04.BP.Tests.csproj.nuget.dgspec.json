@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\persi\\Desktop\\New folder\\03. Linear-Data-Structures-Exercise-Skeleton\\04.BP.Tests\\04.BP.Tests.csproj": {}
+    "C:\\Users\\persi\\Desktop\\DataStructure And Algorithms\\03. Linear-Data-Structures-Exercise-Skeleton\\04.BP.Tests\\04.BP.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\persi\\Desktop\\New folder\\03. Linear-Data-Structures-Exercise-Skeleton\\04.BalancedParentheses\\04.BalancedParentheses.csproj": {
+    "C:\\Users\\persi\\Desktop\\DataStructure And Algorithms\\03. Linear-Data-Structures-Exercise-Skeleton\\04.BalancedParentheses\\04.BalancedParentheses.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\persi\\Desktop\\New folder\\03. Linear-Data-Structures-Exercise-Skeleton\\04.BalancedParentheses\\04.BalancedParentheses.csproj",
+        "projectUniqueName": "C:\\Users\\persi\\Desktop\\DataStructure And Algorithms\\03. Linear-Data-Structures-Exercise-Skeleton\\04.BalancedParentheses\\04.BalancedParentheses.csproj",
         "projectName": "04.BalancedParentheses",
-        "projectPath": "C:\\Users\\persi\\Desktop\\New folder\\03. Linear-Data-Structures-Exercise-Skeleton\\04.BalancedParentheses\\04.BalancedParentheses.csproj",
+        "projectPath": "C:\\Users\\persi\\Desktop\\DataStructure And Algorithms\\03. Linear-Data-Structures-Exercise-Skeleton\\04.BalancedParentheses\\04.BalancedParentheses.csproj",
         "packagesPath": "C:\\Users\\persi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\persi\\Desktop\\New folder\\03. Linear-Data-Structures-Exercise-Skeleton\\04.BalancedParentheses\\obj\\",
+        "outputPath": "C:\\Users\\persi\\Desktop\\DataStructure And Algorithms\\03. Linear-Data-Structures-Exercise-Skeleton\\04.BalancedParentheses\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\persi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -56,14 +56,14 @@
         }
       }
     },
-    "C:\\Users\\persi\\Desktop\\New folder\\03. Linear-Data-Structures-Exercise-Skeleton\\04.BP.Tests\\04.BP.Tests.csproj": {
+    "C:\\Users\\persi\\Desktop\\DataStructure And Algorithms\\03. Linear-Data-Structures-Exercise-Skeleton\\04.BP.Tests\\04.BP.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\persi\\Desktop\\New folder\\03. Linear-Data-Structures-Exercise-Skeleton\\04.BP.Tests\\04.BP.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\persi\\Desktop\\DataStructure And Algorithms\\03. Linear-Data-Structures-Exercise-Skeleton\\04.BP.Tests\\04.BP.Tests.csproj",
         "projectName": "04.BP.Tests",
-        "projectPath": "C:\\Users\\persi\\Desktop\\New folder\\03. Linear-Data-Structures-Exercise-Skeleton\\04.BP.Tests\\04.BP.Tests.csproj",
+        "projectPath": "C:\\Users\\persi\\Desktop\\DataStructure And Algorithms\\03. Linear-Data-Structures-Exercise-Skeleton\\04.BP.Tests\\04.BP.Tests.csproj",
         "packagesPath": "C:\\Users\\persi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\persi\\Desktop\\New folder\\03. Linear-Data-Structures-Exercise-Skeleton\\04.BP.Tests\\obj\\",
+        "outputPath": "C:\\Users\\persi\\Desktop\\DataStructure And Algorithms\\03. Linear-Data-Structures-Exercise-Skeleton\\04.BP.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\persi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -79,8 +79,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\persi\\Desktop\\New folder\\03. Linear-Data-Structures-Exercise-Skeleton\\04.BalancedParentheses\\04.BalancedParentheses.csproj": {
-                "projectPath": "C:\\Users\\persi\\Desktop\\New folder\\03. Linear-Data-Structures-Exercise-Skeleton\\04.BalancedParentheses\\04.BalancedParentheses.csproj"
+              "C:\\Users\\persi\\Desktop\\DataStructure And Algorithms\\03. Linear-Data-Structures-Exercise-Skeleton\\04.BalancedParentheses\\04.BalancedParentheses.csproj": {
+                "projectPath": "C:\\Users\\persi\\Desktop\\DataStructure And Algorithms\\03. Linear-Data-Structures-Exercise-Skeleton\\04.BalancedParentheses\\04.BalancedParentheses.csproj"
               }
             }
           }

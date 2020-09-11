@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\persi\\Desktop\\New folder\\03. Linear-Data-Structures-Exercise-Skeleton\\03.ReversedList\\03.ReversedList.csproj": {}
+    "C:\\Users\\persi\\Desktop\\DataStructure And Algorithms\\03. Linear-Data-Structures-Exercise-Skeleton\\03.ReversedList\\03.ReversedList.csproj": {}
   },
   "projects": {
-    "C:\\Users\\persi\\Desktop\\New folder\\03. Linear-Data-Structures-Exercise-Skeleton\\03.ReversedList\\03.ReversedList.csproj": {
+    "C:\\Users\\persi\\Desktop\\DataStructure And Algorithms\\03. Linear-Data-Structures-Exercise-Skeleton\\03.ReversedList\\03.ReversedList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\persi\\Desktop\\New folder\\03. Linear-Data-Structures-Exercise-Skeleton\\03.ReversedList\\03.ReversedList.csproj",
+        "projectUniqueName": "C:\\Users\\persi\\Desktop\\DataStructure And Algorithms\\03. Linear-Data-Structures-Exercise-Skeleton\\03.ReversedList\\03.ReversedList.csproj",
         "projectName": "03.ReversedList",
-        "projectPath": "C:\\Users\\persi\\Desktop\\New folder\\03. Linear-Data-Structures-Exercise-Skeleton\\03.ReversedList\\03.ReversedList.csproj",
+        "projectPath": "C:\\Users\\persi\\Desktop\\DataStructure And Algorithms\\03. Linear-Data-Structures-Exercise-Skeleton\\03.ReversedList\\03.ReversedList.csproj",
         "packagesPath": "C:\\Users\\persi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\persi\\Desktop\\New folder\\03. Linear-Data-Structures-Exercise-Skeleton\\03.ReversedList\\obj\\",
+        "outputPath": "C:\\Users\\persi\\Desktop\\DataStructure And Algorithms\\03. Linear-Data-Structures-Exercise-Skeleton\\03.ReversedList\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\persi\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -25,6 +25,7 @@
                 head.Previous = node;
                 head = node;
             }
+            Count++;
         }
 
         public void AddLast(T item)
@@ -38,39 +39,66 @@
             }
             else 
             {
-                laselElement.Previous = laselElement;
+                
+                node.Previous = laselElement;
+                laselElement.Next = node;
+                laselElement = node;
 
             }
+            Count++;
         }
 
         public T GetFirst()
         {
-            throw new NotImplementedException();
+            EnsureNotEmpty();
+            return head.Item;
         }
 
         public T GetLast()
         {
-            throw new NotImplementedException();
+            EnsureNotEmpty();
+            return laselElement.Item;
         }
 
         public T RemoveFirst()
         {
-            throw new NotImplementedException();
+            EnsureNotEmpty();
+            T item = head.Item;
+            head = head.Next;
+            
+            Count--;
+            return item;
         }
 
         public T RemoveLast()
         {
-            throw new NotImplementedException();
+            EnsureNotEmpty();
+            var item = laselElement.Item;
+            laselElement = laselElement.Previous;
+            
+            Count--;
+            return item;
         }
 
         public IEnumerator<T> GetEnumerator()
         {
-            throw new NotImplementedException();
+            var currentelement = head;
+            while (currentelement!=null)
+            {
+                yield return currentelement.Item;
+                currentelement = currentelement.Next;
+
+            }
         }
 
         IEnumerator IEnumerable.GetEnumerator()
         {
-            throw new NotImplementedException();
+            return this.GetEnumerator();
+        }
+        private void EnsureNotEmpty()
+        {
+            if (head == null)
+                throw new InvalidOperationException();
         }
     }
 }

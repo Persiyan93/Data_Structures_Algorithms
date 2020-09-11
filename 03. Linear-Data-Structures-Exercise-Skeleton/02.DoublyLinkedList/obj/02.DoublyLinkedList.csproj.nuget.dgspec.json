@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\persi\\Desktop\\New folder\\03. Linear-Data-Structures-Exercise-Skeleton\\02.DoublyLinkedList\\02.DoublyLinkedList.csproj": {}
+    "C:\\Users\\persi\\Desktop\\DataStructure And Algorithms\\03. Linear-Data-Structures-Exercise-Skeleton\\02.DoublyLinkedList\\02.DoublyLinkedList.csproj": {}
   },
   "projects": {
-    "C:\\Users\\persi\\Desktop\\New folder\\03. Linear-Data-Structures-Exercise-Skeleton\\02.DoublyLinkedList\\02.DoublyLinkedList.csproj": {
+    "C:\\Users\\persi\\Desktop\\DataStructure And Algorithms\\03. Linear-Data-Structures-Exercise-Skeleton\\02.DoublyLinkedList\\02.DoublyLinkedList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\persi\\Desktop\\New folder\\03. Linear-Data-Structures-Exercise-Skeleton\\02.DoublyLinkedList\\02.DoublyLinkedList.csproj",
+        "projectUniqueName": "C:\\Users\\persi\\Desktop\\DataStructure And Algorithms\\03. Linear-Data-Structures-Exercise-Skeleton\\02.DoublyLinkedList\\02.DoublyLinkedList.csproj",
         "projectName": "02.DoublyLinkedList",
-        "projectPath": "C:\\Users\\persi\\Desktop\\New folder\\03. Linear-Data-Structures-Exercise-Skeleton\\02.DoublyLinkedList\\02.DoublyLinkedList.csproj",
+        "projectPath": "C:\\Users\\persi\\Desktop\\DataStructure And Algorithms\\03. Linear-Data-Structures-Exercise-Skeleton\\02.DoublyLinkedList\\02.DoublyLinkedList.csproj",
         "packagesPath": "C:\\Users\\persi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\persi\\Desktop\\New folder\\03. Linear-Data-Structures-Exercise-Skeleton\\02.DoublyLinkedList\\obj\\",
+        "outputPath": "C:\\Users\\persi\\Desktop\\DataStructure And Algorithms\\03. Linear-Data-Structures-Exercise-Skeleton\\02.DoublyLinkedList\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\persi\\AppData\\Roaming\\NuGet\\NuGet.Config",

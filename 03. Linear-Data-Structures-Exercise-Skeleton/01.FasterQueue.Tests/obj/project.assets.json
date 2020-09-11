@@ -4649,11 +4649,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\persi\\Desktop\\New folder\\03. Linear-Data-Structures-Exercise-Skeleton\\01.FasterQueue.Tests\\01.FasterQueue.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\persi\\Desktop\\DataStructure And Algorithms\\03. Linear-Data-Structures-Exercise-Skeleton\\01.FasterQueue.Tests\\01.FasterQueue.Tests.csproj",
       "projectName": "01.FasterQueue.Tests",
-      "projectPath": "C:\\Users\\persi\\Desktop\\New folder\\03. Linear-Data-Structures-Exercise-Skeleton\\01.FasterQueue.Tests\\01.FasterQueue.Tests.csproj",
+      "projectPath": "C:\\Users\\persi\\Desktop\\DataStructure And Algorithms\\03. Linear-Data-Structures-Exercise-Skeleton\\01.FasterQueue.Tests\\01.FasterQueue.Tests.csproj",
       "packagesPath": "C:\\Users\\persi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\persi\\Desktop\\New folder\\03. Linear-Data-Structures-Exercise-Skeleton\\01.FasterQueue.Tests\\obj\\",
+      "outputPath": "C:\\Users\\persi\\Desktop\\DataStructure And Algorithms\\03. Linear-Data-Structures-Exercise-Skeleton\\01.FasterQueue.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\persi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4669,8 +4669,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\persi\\Desktop\\New folder\\03. Linear-Data-Structures-Exercise-Skeleton\\01.FasterQueue\\01.FasterQueue.csproj": {
-              "projectPath": "C:\\Users\\persi\\Desktop\\New folder\\03. Linear-Data-Structures-Exercise-Skeleton\\01.FasterQueue\\01.FasterQueue.csproj"
+            "C:\\Users\\persi\\Desktop\\DataStructure And Algorithms\\03. Linear-Data-Structures-Exercise-Skeleton\\01.FasterQueue\\01.FasterQueue.csproj": {
+              "projectPath": "C:\\Users\\persi\\Desktop\\DataStructure And Algorithms\\03. Linear-Data-Structures-Exercise-Skeleton\\01.FasterQueue\\01.FasterQueue.csproj"
             }
           }
         }
