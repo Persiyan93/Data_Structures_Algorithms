@@ -3,6 +3,7 @@
     using System;
     using System.Collections;
     using System.Collections.Generic;
+    using System.Windows.Markup;
 
     public class ReversedList<T> : IAbstractList<T>
     {
@@ -25,11 +26,13 @@
         {
             get
             {
-                throw new NotImplementedException();
+                EnsureOutOfRangeIndex(index);
+                return _items[Count-index-1];
             }
             set
             {
-                throw new NotImplementedException();
+                EnsureOutOfRangeIndex(index);
+                _items[index] = value;
             }
         }
 
@@ -37,42 +40,109 @@
 
         public void Add(T item)
         {
-            throw new NotImplementedException();
+            EnsureSizeofArray();
+            _items[Count] = item;
+            Count++;
+            
         }
 
         public bool Contains(T item)
         {
-            throw new NotImplementedException();
+            foreach (var element in _items)
+            {
+                if (element.Equals(item))
+                {
+                    return true;
+                }
+            }
+            return false;
         }
 
         public int IndexOf(T item)
         {
-            throw new NotImplementedException();
+            for (int i = 0; i < Count; i++)
+            {
+                if (_items[i].Equals(item))
+                {
+                    return (Count - i-1);
+                }
+            }
+            return -1;
+           
         }
 
         public void Insert(int index, T item)
         {
-            throw new NotImplementedException();
+            EnsureOutOfRangeIndex(index);
+            EnsureSizeofArray();
+
+            for (int i = Count; i <= index; i--)
+            {
+                _items[i ] = _items[i-1];
+            }
+            _items[index] = item;
+            Count++;
         }
 
         public bool Remove(T item)
         {
-            throw new NotImplementedException();
+
+            int index = IndexOf(item);
+            if (index==-1)
+            {
+                return false;
+            }
+
+            for (int i = Count-index-1; i < Count; i++)
+            {
+                _items[i] = _items[i + 1];
+            }
+            Count--;
+            return true;
+              
         }
 
         public void RemoveAt(int index)
         {
-            throw new NotImplementedException();
+            EnsureOutOfRangeIndex(index);
+            for (int i = Count - index - 1; i < Count; i++)
+            {
+                _items[i] = _items[i + 1];
+            }
+            Count--;
+            
         }
 
         public IEnumerator<T> GetEnumerator()
         {
-            throw new NotImplementedException();
+            for (int i = 0; i < Count; i++)
+            {
+                yield return _items[Count - i - 1];
+            }
         }
 
         IEnumerator IEnumerable.GetEnumerator()
         {
-            throw new NotImplementedException();
+            return this.GetEnumerator();
+        }
+        private void EnsureOutOfRangeIndex(int index)
+        {
+            if (index<0||index>=Count)
+            {
+                throw new IndexOutOfRangeException("Invalid index");
+            }
+        }
+        private void EnsureSizeofArray()
+        {
+            if (_items.Length==Count)
+            {
+                T[] newArray = new T[2 * Count];
+                for (int i = 0; i < _items.Length; i++)
+                {
+                    newArray[i] = _items[i];
+                }
+                _items = newArray;
+            }
         }
     }
 }

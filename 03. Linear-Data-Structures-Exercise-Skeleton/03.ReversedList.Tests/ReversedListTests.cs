@@ -75,7 +75,7 @@ namespace Problem03.ReversedList.Tests
             {
                 var randomNumber = this._random.Next();
 
-                list.Add(0);
+                list.Add(i);
 
                 // We should set it in an array because in an implementation full of bugs the indexer may remove the last added item.
                 list[i] = randomNumber;

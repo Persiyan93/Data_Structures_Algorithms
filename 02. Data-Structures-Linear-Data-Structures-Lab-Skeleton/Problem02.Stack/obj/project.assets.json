@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\persi\\Desktop\\New folder (2)\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\Problem02.Stack\\Problem02.Stack.csproj",
+      "projectUniqueName": "C:\\Users\\persi\\Desktop\\DataStructure And Algorithms\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\Problem02.Stack\\Problem02.Stack.csproj",
       "projectName": "Problem02.Stack",
-      "projectPath": "C:\\Users\\persi\\Desktop\\New folder (2)\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\Problem02.Stack\\Problem02.Stack.csproj",
+      "projectPath": "C:\\Users\\persi\\Desktop\\DataStructure And Algorithms\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\Problem02.Stack\\Problem02.Stack.csproj",
       "packagesPath": "C:\\Users\\persi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\persi\\Desktop\\New folder (2)\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\Problem02.Stack\\obj\\",
+      "outputPath": "C:\\Users\\persi\\Desktop\\DataStructure And Algorithms\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\Problem02.Stack\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\persi\\AppData\\Roaming\\NuGet\\NuGet.Config",
