@@ -76,12 +76,14 @@
             EnsureOutOfRangeIndex(index);
             EnsureSizeofArray();
 
-            for (int i = Count; i <= index; i--)
+            for (int i = Count; i > Count-index-1; i--)
             {
                 _items[i ] = _items[i-1];
             }
-            _items[index] = item;
             Count++;
+            _items[Count-index-1] = item;
+         
+            
         }
 
         public bool Remove(T item)
