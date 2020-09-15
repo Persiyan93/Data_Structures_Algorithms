@@ -1,0 +1,13 @@
+C:\Users\persi\Desktop\DataStructure And Algorithms\Sorting Algorithms\Merge Sort\bin\Debug\netcoreapp3.1\Merge Sort.exe
+C:\Users\persi\Desktop\DataStructure And Algorithms\Sorting Algorithms\Merge Sort\bin\Debug\netcoreapp3.1\Merge Sort.deps.json
+C:\Users\persi\Desktop\DataStructure And Algorithms\Sorting Algorithms\Merge Sort\bin\Debug\netcoreapp3.1\Merge Sort.runtimeconfig.json
+C:\Users\persi\Desktop\DataStructure And Algorithms\Sorting Algorithms\Merge Sort\bin\Debug\netcoreapp3.1\Merge Sort.runtimeconfig.dev.json
+C:\Users\persi\Desktop\DataStructure And Algorithms\Sorting Algorithms\Merge Sort\bin\Debug\netcoreapp3.1\Merge Sort.dll
+C:\Users\persi\Desktop\DataStructure And Algorithms\Sorting Algorithms\Merge Sort\bin\Debug\netcoreapp3.1\Merge Sort.pdb
+C:\Users\persi\Desktop\DataStructure And Algorithms\Sorting Algorithms\Merge Sort\obj\Debug\netcoreapp3.1\Merge Sort.csprojAssemblyReference.cache
+C:\Users\persi\Desktop\DataStructure And Algorithms\Sorting Algorithms\Merge Sort\obj\Debug\netcoreapp3.1\Merge Sort.csproj.CoreCompileInputs.cache
+C:\Users\persi\Desktop\DataStructure And Algorithms\Sorting Algorithms\Merge Sort\obj\Debug\netcoreapp3.1\Merge Sort.AssemblyInfoInputs.cache
+C:\Users\persi\Desktop\DataStructure And Algorithms\Sorting Algorithms\Merge Sort\obj\Debug\netcoreapp3.1\Merge Sort.AssemblyInfo.cs
+C:\Users\persi\Desktop\DataStructure And Algorithms\Sorting Algorithms\Merge Sort\obj\Debug\netcoreapp3.1\Merge Sort.dll
+C:\Users\persi\Desktop\DataStructure And Algorithms\Sorting Algorithms\Merge Sort\obj\Debug\netcoreapp3.1\Merge Sort.pdb
+C:\Users\persi\Desktop\DataStructure And Algorithms\Sorting Algorithms\Merge Sort\obj\Debug\netcoreapp3.1\Merge Sort.genruntimeconfig.cache
