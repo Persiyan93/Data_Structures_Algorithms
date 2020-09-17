@@ -39,9 +39,9 @@ namespace Merge_Sort
         private static int[] Merge(int[] leftarray, int[] rightarray)
         {
             int[] result = new int[leftarray.Length +rightarray.Length];
-            int i = 0;
-            int j = 0;
-            int k = 0;
+            int i = 0;//Initial index of first array
+            int j = 0;//Intial index of second array
+            int k = 0;//Inital index of result array
 
             while (leftarray.Length > i || rightarray.Length > j)
             {
