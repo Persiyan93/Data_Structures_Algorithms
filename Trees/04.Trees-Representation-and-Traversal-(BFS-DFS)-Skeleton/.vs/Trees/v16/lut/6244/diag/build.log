@@ -1,0 +1,41 @@
+[19:56:46.502 Verbose] - BuildManager - C:\Users\persi\Desktop\New folder\04.Trees-Representation-and-Traversal-(BFS-DFS)-Skeleton\Tree\Tree.cs(60,34): error CS0103: The name 'collection' does not exist in the current context
+[19:56:46.526 Verbose] - BuildManager - Some of the file paths defined in the csproj under the Live Unit Testing build path are missing. Verify whether these files should be present under the Live Unit Testing build path and if necessary update the csproj definition to look these files up in a different place.
+[19:56:46.526 Verbose] - BuildManager - Item _OutputPathItem 'C:\Users\persi\Desktop\New folder\04.Trees-Representation-and-Traversal-(BFS-DFS)-Skeleton\.vs\Trees\v16\lut\0\b\Tree\Debug\netcoreapp3.1\' evaluated via:
+_OutputPathItem: '$(OutDir)' @ C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets:272
+  OutDir: '$(OutputPath)' @ C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets:193
+    OutputPath: '$(OutputPath)$(TargetFramework.ToLowerInvariant())\' @ C:\Program Files\dotnet\sdk\3.1.201\Sdks\Microsoft.NET.Sdk\targets\Microsoft.NET.TargetFrameworkInference.targets:186
+      OutputPath: '$(BaseOutputPath)$(Configuration)\' @ C:\Program Files\dotnet\sdk\3.1.201\Sdks\Microsoft.NET.Sdk\targets\Microsoft.NET.DefaultOutputPaths.targets:33
+        BaseOutputPath: 'C:\Users\persi\Desktop\New folder\04.Trees-Representation-and-Traversal-(BFS-DFS)-Skeleton\.vs\Trees\v16\lut\0\b\Tree\' @ C:\Users\persi\Desktop\New folder\04.Trees-Representation-and-Traversal-(BFS-DFS)-Skeleton\Tree\Tree.csproj:0
+        Configuration: 'Debug'
+[19:56:46.527 Verbose] - BuildManager - Item AppConfigFileDestination 'C:\Users\persi\Desktop\New folder\04.Trees-Representation-and-Traversal-(BFS-DFS)-Skeleton\.vs\Trees\v16\lut\0\b\Tree\Debug\netcoreapp3.1\Tree.dll.config' evaluated via:
+AppConfigFileDestination: '$(OutDir)$(TargetFileName).config' @ C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets:303
+  OutDir: '$(OutputPath)' @ C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets:193
+    OutputPath: '$(OutputPath)$(TargetFramework.ToLowerInvariant())\' @ C:\Program Files\dotnet\sdk\3.1.201\Sdks\Microsoft.NET.Sdk\targets\Microsoft.NET.TargetFrameworkInference.targets:186
+      OutputPath: '$(BaseOutputPath)$(Configuration)\' @ C:\Program Files\dotnet\sdk\3.1.201\Sdks\Microsoft.NET.Sdk\targets\Microsoft.NET.DefaultOutputPaths.targets:33
+        BaseOutputPath: 'C:\Users\persi\Desktop\New folder\04.Trees-Representation-and-Traversal-(BFS-DFS)-Skeleton\.vs\Trees\v16\lut\0\b\Tree\' @ C:\Users\persi\Desktop\New folder\04.Trees-Representation-and-Traversal-(BFS-DFS)-Skeleton\Tree\Tree.csproj:0
+        Configuration: 'Debug'
+  TargetFileName: '$(TargetName)$(TargetExt)' @ C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets:212
+    TargetName: '$(AssemblyName)' @ C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets:204
+      AssemblyName: '$(MSBuildProjectName)' @ C:\Program Files\dotnet\sdk\3.1.201\Sdks\Microsoft.NET.Sdk\targets\Microsoft.NET.Sdk.props:32
+        MSBuildProjectName: 'Tree'
+    TargetExt: '.dll' @ C:\Program Files\dotnet\sdk\3.1.201\Sdks\Microsoft.NET.Sdk\targets\Microsoft.NET.Sdk.BeforeCommon.targets:82
+[19:56:46.527 Verbose] - BuildManager - Item _DebugSymbolsOutputPath 'C:\Users\persi\Desktop\New folder\04.Trees-Representation-and-Traversal-(BFS-DFS)-Skeleton\.vs\Trees\v16\lut\0\b\Tree\Debug\netcoreapp3.1\Tree.pdb' evaluated via:
+_DebugSymbolsOutputPath: '@(_DebugSymbolsIntermediatePath->'$(OutDir)%(Filename)%(Extension)')' @ C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets:372
+  OutDir: '$(OutputPath)' @ C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets:193
+    OutputPath: '$(OutputPath)$(TargetFramework.ToLowerInvariant())\' @ C:\Program Files\dotnet\sdk\3.1.201\Sdks\Microsoft.NET.Sdk\targets\Microsoft.NET.TargetFrameworkInference.targets:186
+      OutputPath: '$(BaseOutputPath)$(Configuration)\' @ C:\Program Files\dotnet\sdk\3.1.201\Sdks\Microsoft.NET.Sdk\targets\Microsoft.NET.DefaultOutputPaths.targets:33
+        BaseOutputPath: 'C:\Users\persi\Desktop\New folder\04.Trees-Representation-and-Traversal-(BFS-DFS)-Skeleton\.vs\Trees\v16\lut\0\b\Tree\' @ C:\Users\persi\Desktop\New folder\04.Trees-Representation-and-Traversal-(BFS-DFS)-Skeleton\Tree\Tree.csproj:0
+        Configuration: 'Debug'
+[19:56:46.527 Verbose] - BuildManager - Item _ApplicationManifestFinal 'C:\Users\persi\Desktop\New folder\04.Trees-Representation-and-Traversal-(BFS-DFS)-Skeleton\.vs\Trees\v16\lut\0\b\Tree\Debug\netcoreapp3.1\Tree.dll.manifest' evaluated via:
+_ApplicationManifestFinal: '$(OutDir)$(_DeploymentTargetApplicationManifestFileName)' @ C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets:410
+  OutDir: '$(OutputPath)' @ C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets:193
+    OutputPath: '$(OutputPath)$(TargetFramework.ToLowerInvariant())\' @ C:\Program Files\dotnet\sdk\3.1.201\Sdks\Microsoft.NET.Sdk\targets\Microsoft.NET.TargetFrameworkInference.targets:186
+      OutputPath: '$(BaseOutputPath)$(Configuration)\' @ C:\Program Files\dotnet\sdk\3.1.201\Sdks\Microsoft.NET.Sdk\targets\Microsoft.NET.DefaultOutputPaths.targets:33
+        BaseOutputPath: 'C:\Users\persi\Desktop\New folder\04.Trees-Representation-and-Traversal-(BFS-DFS)-Skeleton\.vs\Trees\v16\lut\0\b\Tree\' @ C:\Users\persi\Desktop\New folder\04.Trees-Representation-and-Traversal-(BFS-DFS)-Skeleton\Tree\Tree.csproj:0
+        Configuration: 'Debug'
+  _DeploymentTargetApplicationManifestFileName: '$(TargetFileName).manifest' @ C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets:232
+    TargetFileName: '$(TargetName)$(TargetExt)' @ C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets:212
+      TargetName: '$(AssemblyName)' @ C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets:204
+        AssemblyName: '$(MSBuildProjectName)' @ C:\Program Files\dotnet\sdk\3.1.201\Sdks\Microsoft.NET.Sdk\targets\Microsoft.NET.Sdk.props:32
+          MSBuildProjectName: 'Tree'
+      TargetExt: '.dll' @ C:\Program Files\dotnet\sdk\3.1.201\Sdks\Microsoft.NET.Sdk\targets\Microsoft.NET.Sdk.BeforeCommon.targets:82

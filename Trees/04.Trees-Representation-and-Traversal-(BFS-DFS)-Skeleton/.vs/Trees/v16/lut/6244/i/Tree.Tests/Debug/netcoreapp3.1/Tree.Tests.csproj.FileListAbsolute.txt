@@ -1,0 +1,15 @@
+C:\Users\persi\Desktop\New folder\04.Trees-Representation-and-Traversal-(BFS-DFS)-Skeleton\.vs\Trees\v16\lut\0\b\Tree.Tests\Debug\netcoreapp3.1\Tree.exe
+C:\Users\persi\Desktop\New folder\04.Trees-Representation-and-Traversal-(BFS-DFS)-Skeleton\.vs\Trees\v16\lut\0\b\Tree.Tests\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Users\persi\Desktop\New folder\04.Trees-Representation-and-Traversal-(BFS-DFS)-Skeleton\.vs\Trees\v16\lut\0\b\Tree.Tests\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Users\persi\Desktop\New folder\04.Trees-Representation-and-Traversal-(BFS-DFS)-Skeleton\.vs\Trees\v16\lut\0\b\Tree.Tests\Debug\netcoreapp3.1\nunit.engine.dll
+C:\Users\persi\Desktop\New folder\04.Trees-Representation-and-Traversal-(BFS-DFS)-Skeleton\.vs\Trees\v16\lut\0\b\Tree.Tests\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\Users\persi\Desktop\New folder\04.Trees-Representation-and-Traversal-(BFS-DFS)-Skeleton\.vs\Trees\v16\lut\0\b\Tree.Tests\Debug\netcoreapp3.1\Tree.Tests.deps.json
+C:\Users\persi\Desktop\New folder\04.Trees-Representation-and-Traversal-(BFS-DFS)-Skeleton\.vs\Trees\v16\lut\0\b\Tree.Tests\Debug\netcoreapp3.1\Tree.Tests.runtimeconfig.json
+C:\Users\persi\Desktop\New folder\04.Trees-Representation-and-Traversal-(BFS-DFS)-Skeleton\.vs\Trees\v16\lut\0\b\Tree.Tests\Debug\netcoreapp3.1\Tree.Tests.runtimeconfig.dev.json
+C:\Users\persi\Desktop\New folder\04.Trees-Representation-and-Traversal-(BFS-DFS)-Skeleton\.vs\Trees\v16\lut\0\b\Tree.Tests\Debug\netcoreapp3.1\Tree.Tests.dll
+C:\Users\persi\Desktop\New folder\04.Trees-Representation-and-Traversal-(BFS-DFS)-Skeleton\.vs\Trees\v16\lut\0\i\Tree.Tests\Debug\netcoreapp3.1\Tree.Tests.csprojAssemblyReference.cache
+C:\Users\persi\Desktop\New folder\04.Trees-Representation-and-Traversal-(BFS-DFS)-Skeleton\.vs\Trees\v16\lut\0\i\Tree.Tests\Debug\netcoreapp3.1\Tree.Tests.AssemblyInfoInputs.cache
+C:\Users\persi\Desktop\New folder\04.Trees-Representation-and-Traversal-(BFS-DFS)-Skeleton\.vs\Trees\v16\lut\0\i\Tree.Tests\Debug\netcoreapp3.1\Tree.Tests.AssemblyInfo.cs
+C:\Users\persi\Desktop\New folder\04.Trees-Representation-and-Traversal-(BFS-DFS)-Skeleton\.vs\Trees\v16\lut\0\i\Tree.Tests\Debug\netcoreapp3.1\Tree.Tests.csproj.CopyComplete
+C:\Users\persi\Desktop\New folder\04.Trees-Representation-and-Traversal-(BFS-DFS)-Skeleton\.vs\Trees\v16\lut\0\i\Tree.Tests\Debug\netcoreapp3.1\Tree.Tests.dll
+C:\Users\persi\Desktop\New folder\04.Trees-Representation-and-Traversal-(BFS-DFS)-Skeleton\.vs\Trees\v16\lut\0\i\Tree.Tests\Debug\netcoreapp3.1\Tree.Tests.genruntimeconfig.cache
