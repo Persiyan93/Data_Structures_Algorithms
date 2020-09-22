@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "yNES/XgwZF15sgKsCGQQyp1f/8mfYY+yuh6Z/yZdcpIgnMKDpE9aPUsYrg/RPms60KaxCTQnUHrvmDqHMtJK6Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\persi\\Desktop\\New folder\\01. Create Tree_Skeleton\\Tree\\Tree.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\persi\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\persi\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
