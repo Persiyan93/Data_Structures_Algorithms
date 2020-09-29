@@ -1,0 +1,13 @@
+C:\Users\persi\Desktop\DataStructure And Algorithms\Sorting Algorithms\Quick Sort\bin\Debug\netcoreapp3.1\Quick Sort.exe
+C:\Users\persi\Desktop\DataStructure And Algorithms\Sorting Algorithms\Quick Sort\bin\Debug\netcoreapp3.1\Quick Sort.deps.json
+C:\Users\persi\Desktop\DataStructure And Algorithms\Sorting Algorithms\Quick Sort\bin\Debug\netcoreapp3.1\Quick Sort.runtimeconfig.json
+C:\Users\persi\Desktop\DataStructure And Algorithms\Sorting Algorithms\Quick Sort\bin\Debug\netcoreapp3.1\Quick Sort.runtimeconfig.dev.json
+C:\Users\persi\Desktop\DataStructure And Algorithms\Sorting Algorithms\Quick Sort\bin\Debug\netcoreapp3.1\Quick Sort.dll
+C:\Users\persi\Desktop\DataStructure And Algorithms\Sorting Algorithms\Quick Sort\bin\Debug\netcoreapp3.1\Quick Sort.pdb
+C:\Users\persi\Desktop\DataStructure And Algorithms\Sorting Algorithms\Quick Sort\obj\Debug\netcoreapp3.1\Quick Sort.csprojAssemblyReference.cache
+C:\Users\persi\Desktop\DataStructure And Algorithms\Sorting Algorithms\Quick Sort\obj\Debug\netcoreapp3.1\Quick Sort.csproj.CoreCompileInputs.cache
+C:\Users\persi\Desktop\DataStructure And Algorithms\Sorting Algorithms\Quick Sort\obj\Debug\netcoreapp3.1\Quick Sort.AssemblyInfoInputs.cache
+C:\Users\persi\Desktop\DataStructure And Algorithms\Sorting Algorithms\Quick Sort\obj\Debug\netcoreapp3.1\Quick Sort.AssemblyInfo.cs
+C:\Users\persi\Desktop\DataStructure And Algorithms\Sorting Algorithms\Quick Sort\obj\Debug\netcoreapp3.1\Quick Sort.dll
+C:\Users\persi\Desktop\DataStructure And Algorithms\Sorting Algorithms\Quick Sort\obj\Debug\netcoreapp3.1\Quick Sort.pdb
+C:\Users\persi\Desktop\DataStructure And Algorithms\Sorting Algorithms\Quick Sort\obj\Debug\netcoreapp3.1\Quick Sort.genruntimeconfig.cache
