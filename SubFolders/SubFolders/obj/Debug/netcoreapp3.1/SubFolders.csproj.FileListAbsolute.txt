@@ -1,0 +1,13 @@
+C:\Users\persi\Desktop\DataStructure And Algorithms\SubFolders\SubFolders\bin\Debug\netcoreapp3.1\SubFolders.exe
+C:\Users\persi\Desktop\DataStructure And Algorithms\SubFolders\SubFolders\bin\Debug\netcoreapp3.1\SubFolders.deps.json
+C:\Users\persi\Desktop\DataStructure And Algorithms\SubFolders\SubFolders\bin\Debug\netcoreapp3.1\SubFolders.runtimeconfig.json
+C:\Users\persi\Desktop\DataStructure And Algorithms\SubFolders\SubFolders\bin\Debug\netcoreapp3.1\SubFolders.runtimeconfig.dev.json
+C:\Users\persi\Desktop\DataStructure And Algorithms\SubFolders\SubFolders\bin\Debug\netcoreapp3.1\SubFolders.dll
+C:\Users\persi\Desktop\DataStructure And Algorithms\SubFolders\SubFolders\bin\Debug\netcoreapp3.1\SubFolders.pdb
+C:\Users\persi\Desktop\DataStructure And Algorithms\SubFolders\SubFolders\obj\Debug\netcoreapp3.1\SubFolders.csprojAssemblyReference.cache
+C:\Users\persi\Desktop\DataStructure And Algorithms\SubFolders\SubFolders\obj\Debug\netcoreapp3.1\SubFolders.csproj.CoreCompileInputs.cache
+C:\Users\persi\Desktop\DataStructure And Algorithms\SubFolders\SubFolders\obj\Debug\netcoreapp3.1\SubFolders.AssemblyInfoInputs.cache
+C:\Users\persi\Desktop\DataStructure And Algorithms\SubFolders\SubFolders\obj\Debug\netcoreapp3.1\SubFolders.AssemblyInfo.cs
+C:\Users\persi\Desktop\DataStructure And Algorithms\SubFolders\SubFolders\obj\Debug\netcoreapp3.1\SubFolders.dll
+C:\Users\persi\Desktop\DataStructure And Algorithms\SubFolders\SubFolders\obj\Debug\netcoreapp3.1\SubFolders.pdb
+C:\Users\persi\Desktop\DataStructure And Algorithms\SubFolders\SubFolders\obj\Debug\netcoreapp3.1\SubFolders.genruntimeconfig.cache
