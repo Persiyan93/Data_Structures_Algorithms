@@ -15,7 +15,7 @@ namespace SubFolders
 
             //BFSSubFolders(result, "D:\\flash");
             //Console.WriteLine(string.Join('\n', result));
-            RecursiveSubFolders("D:\\flash", result);
+            SubFolders("D:\\flash", result,"");
             Console.Write(string.Join('\n', result));
 
 
@@ -50,6 +50,17 @@ namespace SubFolders
                 emptySpace += " ";
             }
             result.Add(emptySpace + path);
+        }
+        static private void SubFolders(string path,List<string> result, string depth)
+        {
+            string[] subflders = Directory.GetDirectories(path);
+            depth += "  ";
+            foreach (var item in subflders)
+            {
+                result.Add(depth+item);
+                
+                SubFolders(item, result,depth);
+            }
         }
 
     }
