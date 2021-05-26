@@ -11,8 +11,10 @@ namespace BinarySearch
             
             Console.WriteLine("Please enter array :");
             int[] arr = Console.ReadLine().Split(",", StringSplitOptions.RemoveEmptyEntries).Select(int.Parse).ToArray();
+            Console.WriteLine("Enter searched number: ");
+            int searchedNumber = int.Parse(Console.ReadLine());
             Console.WriteLine("Position of searched number:");
-            Console.WriteLine(RecursiveBinarySearch(arr, 9, 0, 7));
+            Console.WriteLine(RecursiveBinarySearch(arr,searchedNumber , 0, arr.Length));
         }
         private static int RecursiveBinarySearch(int[] arr, int searchedElement,int firstIndex,int lastIndex)
         {
